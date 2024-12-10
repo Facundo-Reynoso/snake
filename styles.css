@@ -1,0 +1,7 @@
+* {
+  font-family: "Share tech mono", monospace;
+}
+#board,
+.boardInfo {
+  max-width: 500px;
+}
